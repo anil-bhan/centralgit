@@ -30,8 +30,7 @@ print('Login is success')
 
 
 
-# my_username = 'anil.b0012'
-# my_password = 'Sdwan@123456'
+
 
 # url = ("https://www.gmail.com")
 # driver = webdriver.Firefox()
